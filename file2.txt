@@ -1,2 +1,3 @@
 This is the first line of file2.txt
 I just return the Head from the last commit of the main branch in order to experiment detach head
+After creating the detached head branch
